@@ -1,0 +1,26 @@
+.history-item {
+  display: flex;
+  align-items: center;
+  border: 1px solid #d7dfe9;
+  border-top: none;
+  padding-left: 20px;
+}
+.column-element {
+  font-size: 12px;
+  font-weight: 400;
+  color: #334155;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.column-width {
+  width: 26%;
+}
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.delete-icon {
+  width: 16px;
+}
